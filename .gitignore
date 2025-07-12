@@ -4,3 +4,6 @@
 # ignore all logs
 *.log
 
+build/
+node_modules/
+!important.log
